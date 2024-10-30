@@ -5,6 +5,7 @@ This project aims to analyze and present crime data trends in Lagos, allowing st
 - Visualization and Dashboard: Power BI
 # Data Source
 The data was collected from crime reports across Lagos for the year 2022, containing details on crime types, locations, case classifications, and monthly records.
+# Dashboard
 # Key Insights
 - Monthly Crime Trends: Crime peaks were observed in April, March, and May, suggesting seasonal variations in crime rates.
 - Crime by Location: High-risk areas, such as Alimosho, Ifako, and Agege, consistently reported higher crime rates, identifying them as crime hotspots.
